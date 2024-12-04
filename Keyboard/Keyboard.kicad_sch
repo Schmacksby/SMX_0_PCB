@@ -9615,7 +9615,7 @@
 		)
 		(uuid fffcf440-c1b8-47bd-a184-8813923bbd27)
 	)
-	(text_box "04.12.2024: LAYOUT NEEDS TO BE UPDATED! added Ground to load capacitors and 1M parallel to oscillator. fixed connection to D+/D-"
+	(text_box "04.12.2024: LAYOUT NEEDS TO BE UPDATED! added Ground to load capacitors and 1M parallel to oscillator. fixed connection to D+/D-. moved col11 and col12"
 		(exclude_from_sim no)
 		(at 325.12 111.76 0)
 		(size 33.02 17.78)
